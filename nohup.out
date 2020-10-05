@@ -1,0 +1,12 @@
+[I 15:25:56.024 NotebookApp] Serving notebooks from local directory: /home/nuvhandra
+[I 15:25:56.024 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 15:25:56.024 NotebookApp] http://localhost:8888/?token=861f565b5bfb79ab72935ec5fa4a128cb598ce725f3bb2ef
+[I 15:25:56.024 NotebookApp]  or http://127.0.0.1:8888/?token=861f565b5bfb79ab72935ec5fa4a128cb598ce725f3bb2ef
+[I 15:25:56.024 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:25:56.158 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nuvhandra/.local/share/jupyter/runtime/nbserver-23959-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=861f565b5bfb79ab72935ec5fa4a128cb598ce725f3bb2ef
+     or http://127.0.0.1:8888/?token=861f565b5bfb79ab72935ec5fa4a128cb598ce725f3bb2ef

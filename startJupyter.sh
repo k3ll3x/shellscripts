@@ -1,2 +1,2 @@
 #!/bin/bash
-~/.local/bin/jupyter-notebook ~
+nohup ~/.local/bin/jupyter-notebook ~ &
