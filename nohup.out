@@ -10,3 +10,38 @@
     Or copy and paste one of these URLs:
         http://localhost:8888/?token=861f565b5bfb79ab72935ec5fa4a128cb598ce725f3bb2ef
      or http://127.0.0.1:8888/?token=861f565b5bfb79ab72935ec5fa4a128cb598ce725f3bb2ef
+[I 15:26:39.590 NotebookApp] Creating new directory in /Documents/hamoc
+[I 15:26:58.238 NotebookApp] Creating new notebook in /Documents/hamoc/python-notebooks
+[W 15:27:01.503 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201005152554 (127.0.0.1) 88.26ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Untitled.ipynb?kernel_name=python3
+[I 15:27:01.655 NotebookApp] Kernel started: 563377fd-1dde-435a-9c1d-55f772a16b55, name: python3
+[I 15:28:18.944 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Notion.ipynb
+[I 15:29:01.474 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Notion.ipynb
+[I 15:31:01.462 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Notion.ipynb
+[W 10:10:15.484 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201005152554 (127.0.0.1) 19.32ms referer=http://localhost:8888/notebooks/Documents/dev/python/notebooks/Test.ipynb
+[I 10:10:16.148 NotebookApp] Kernel started: 63e1b103-6e82-4d23-842b-8114e18ce658, name: python3
+[I 10:12:16.142 NotebookApp] Saving file at /Documents/dev/python/notebooks/Test.ipynb
+[I 10:14:16.090 NotebookApp] Saving file at /Documents/dev/python/notebooks/Test.ipynb
+[I 10:15:59.761 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Notion.ipynb
+[I 10:16:16.109 NotebookApp] Saving file at /Documents/dev/python/notebooks/Test.ipynb
+[I 10:17:59.763 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Notion.ipynb
+[I 11:54:16.113 NotebookApp] Saving file at /Documents/dev/python/notebooks/Test.ipynb
+[I 11:56:16.084 NotebookApp] Saving file at /Documents/dev/python/notebooks/Test.ipynb
+[I 13:08:40.483 NotebookApp] Starting buffering for 563377fd-1dde-435a-9c1d-55f772a16b55:44f2301fcbc54622b343739697344155
+[I 13:08:41.779 NotebookApp] Starting buffering for 63e1b103-6e82-4d23-842b-8114e18ce658:d2148544458c4ce287403fcedf7c50b6
+[I 10:31:03.874 NotebookApp] 302 GET / (::1) 1314.07ms
+[I 10:31:24.164 NotebookApp] Creating new notebook in /Documents/hamoc/python-notebooks
+[I 10:31:33.744 NotebookApp] Kernel started: 3df3f6c7-d9d1-42ec-a6b5-94bea69500bc, name: python3
+[W 10:31:33.841 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201005152554 (::1) 80.46ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Untitled.ipynb?kernel_name=python3
+[I 10:33:33.355 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 10:55:33.363 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 10:59:33.562 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[W 18:48:09.291 NotebookApp] WebSocket ping timeout after 13829998 ms.
+[I 18:48:17.104 NotebookApp] Starting buffering for 3df3f6c7-d9d1-42ec-a6b5-94bea69500bc:94b71125ba9f4eb08908a395296a01ac
+[I 18:49:55.579 NotebookApp] Restoring connection for 3df3f6c7-d9d1-42ec-a6b5-94bea69500bc:94b71125ba9f4eb08908a395296a01ac
+[I 19:03:25.432 NotebookApp] Starting buffering for 3df3f6c7-d9d1-42ec-a6b5-94bea69500bc:94b71125ba9f4eb08908a395296a01ac
+[W 19:19:30.980 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201005152554 (::1) 52.84ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Podio.ipynb
+[I 19:25:24.379 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 22:39:26.251 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 22:41:26.035 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 22:43:26.037 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 09:39:30.260 NotebookApp] Starting buffering for 3df3f6c7-d9d1-42ec-a6b5-94bea69500bc:48c9ac3512934ea1819242d9a8ef64f4
