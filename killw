@@ -1,2 +1,0 @@
-#!/bin/bash
-taskkill.exe /im $1 -f
