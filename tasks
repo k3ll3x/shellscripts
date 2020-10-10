@@ -1,6 +1,0 @@
-#!/bin/bash
-export DISPLAY=:0
-notify-send 'TASKS' 'Have you done your tasks?'
-sleep 3
-gedit /home/wagner/Documents/tareas
-
