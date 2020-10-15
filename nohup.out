@@ -68,3 +68,18 @@
 [I 21:55:53.437 NotebookApp] Saving file at /Documents/dev/python/notebooks/Test.ipynb
 [I 23:12:57.071 NotebookApp] Starting buffering for 63e1b103-6e82-4d23-842b-8114e18ce658:cb172154d7df48febcf8a7acebc0ebe9
 [I 23:12:59.721 NotebookApp] Starting buffering for 3df3f6c7-d9d1-42ec-a6b5-94bea69500bc:85987d05ab334f9587cc0522b21a5db4
+[C 14:02:59.666 NotebookApp] received signal 15, stopping
+[I 14:03:11.450 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 14:03:21.270 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 14:03:21.727 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 14:03:23.313 NotebookApp] Shutting down 3 kernels
+[I 14:03:31.298 NotebookApp] Kernel shutdown: 563377fd-1dde-435a-9c1d-55f772a16b55
+[I 14:03:35.902 NotebookApp] Kernel shutdown: 63e1b103-6e82-4d23-842b-8114e18ce658
+[I 14:03:36.002 NotebookApp] Kernel shutdown: 3df3f6c7-d9d1-42ec-a6b5-94bea69500bc
+[I 14:03:36.380 NotebookApp] Shutting down 0 terminals
+[I 14:03:36.991 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+[I 14:03:37.489 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+[I 14:03:37.514 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
