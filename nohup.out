@@ -83,3 +83,334 @@
 [IPKernelApp] WARNING | Parent appears to have exited, shutting down.
 [IPKernelApp] WARNING | Parent appears to have exited, shutting down.
 [IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 12:49:50.536 NotebookApp] The port 8888 is already in use, trying another port.
+[I 12:49:50.541 NotebookApp] Serving notebooks from local directory: /home/nuvhandra
+[I 12:49:50.541 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 12:49:50.541 NotebookApp] http://localhost:8889/?token=3ec93dda7ae06aef1ea534d0bd7f6c3b9b13ddb9392ce461
+[I 12:49:50.542 NotebookApp]  or http://127.0.0.1:8889/?token=3ec93dda7ae06aef1ea534d0bd7f6c3b9b13ddb9392ce461
+[I 12:49:50.542 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:49:50.670 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nuvhandra/.local/share/jupyter/runtime/nbserver-8366-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=3ec93dda7ae06aef1ea534d0bd7f6c3b9b13ddb9392ce461
+     or http://127.0.0.1:8889/?token=3ec93dda7ae06aef1ea534d0bd7f6c3b9b13ddb9392ce461
+[W 12:50:25.054 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201015124948 (::1) 425.88ms referer=http://localhost:8889/notebooks/Documents/hamoc/python-notebooks/Podio.ipynb
+[I 12:50:25.186 NotebookApp] Kernel started: c6961365-30e2-4791-aab6-a05fd9571657, name: python3
+[I 12:52:24.893 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 13:06:24.888 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 13:10:24.874 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 13:14:24.876 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 13:16:24.878 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 13:18:24.978 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 13:20:24.895 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 13:34:57.202 NotebookApp] Starting buffering for c6961365-30e2-4791-aab6-a05fd9571657:eb1a218b592f4df38d1b1e7983fc5cde
+[C 23:55:15.209 NotebookApp] received signal 15, stopping
+[I 23:55:18.570 NotebookApp] Shutting down 1 kernel
+[I 23:55:20.238 NotebookApp] Kernel shutdown: c6961365-30e2-4791-aab6-a05fd9571657
+[I 23:55:20.239 NotebookApp] Shutting down 0 terminals
+[I 23:55:20.240 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 13:13:12.377 NotebookApp] Serving notebooks from local directory: /home/nuvhandra
+[I 13:13:12.382 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 13:13:12.383 NotebookApp] http://localhost:8888/?token=8df43c2d8350af70405a28d1cf93134d41ee621e9db92b20
+[I 13:13:12.383 NotebookApp]  or http://127.0.0.1:8888/?token=8df43c2d8350af70405a28d1cf93134d41ee621e9db92b20
+[I 13:13:12.383 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:13:12.451 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nuvhandra/.local/share/jupyter/runtime/nbserver-5129-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=8df43c2d8350af70405a28d1cf93134d41ee621e9db92b20
+     or http://127.0.0.1:8888/?token=8df43c2d8350af70405a28d1cf93134d41ee621e9db92b20
+[I 13:13:25.277 NotebookApp] Creating new notebook in /Documents/hamoc/python-notebooks
+[W 13:13:28.872 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201016131310 (127.0.0.1) 28.56ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Untitled.ipynb?kernel_name=python3
+[I 13:13:29.166 NotebookApp] Kernel started: 127de460-0745-4dea-b075-6f22df5bc093, name: python3
+[I 13:15:29.126 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:17:29.134 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:17:42.571 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:19:29.121 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:21:29.117 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:29:29.158 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:31:29.132 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[W 13:32:37.613 NotebookApp] 404 GET /cdn-cgi/styles/cf.errors.css (127.0.0.1) 3.03ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[W 13:32:37.622 NotebookApp] 404 GET /cdn-cgi/scripts/hcaptcha.challenge.js (127.0.0.1) 1.74ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[W 13:32:37.653 NotebookApp] 404 GET /cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=5e33dba679d1d0bc (127.0.0.1) 2.09ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[I 13:33:29.149 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:35:29.202 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:37:29.132 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:39:29.134 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:43:29.144 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:45:29.129 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:47:29.125 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:15:29.152 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:17:29.269 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:19:29.139 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:23:29.133 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:29:29.143 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:31:29.139 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:33:29.137 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:35:29.136 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:37:29.138 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:39:29.148 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:41:29.136 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:43:29.142 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:45:29.312 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:49:29.145 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:51:29.141 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:53:29.141 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:55:29.152 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:59:29.152 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:03:29.149 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:07:29.620 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:09:29.156 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:13:29.156 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:15:29.155 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:17:29.208 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:19:29.150 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:21:29.152 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:23:29.152 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:25:29.151 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:29:29.153 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:31:29.149 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:33:29.154 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:35:29.164 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:36:37.855 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:37:29.151 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:39:29.324 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:55:29.165 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 15:57:29.158 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:00:41.594 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:02:39.880 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:05:29.165 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:07:29.846 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:09:29.158 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:10:39.438 NotebookApp] Starting buffering for 127de460-0745-4dea-b075-6f22df5bc093:999ae690b50142509f11ff78136d7c67
+[I 16:10:40.182 NotebookApp] Kernel restarted: 127de460-0745-4dea-b075-6f22df5bc093
+[I 16:10:40.210 NotebookApp] Restoring connection for 127de460-0745-4dea-b075-6f22df5bc093:999ae690b50142509f11ff78136d7c67
+[I 16:10:40.210 NotebookApp] Replaying 3 buffered messages
+[I 16:11:29.155 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:11:30.486 NotebookApp] Kernel interrupted: 127de460-0745-4dea-b075-6f22df5bc093
+[I 16:13:29.160 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:15:21.533 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:15:24.946 NotebookApp] Starting buffering for 127de460-0745-4dea-b075-6f22df5bc093:999ae690b50142509f11ff78136d7c67
+[I 16:15:26.068 NotebookApp] Kernel restarted: 127de460-0745-4dea-b075-6f22df5bc093
+[I 16:15:26.099 NotebookApp] Restoring connection for 127de460-0745-4dea-b075-6f22df5bc093:999ae690b50142509f11ff78136d7c67
+[I 16:15:26.100 NotebookApp] Replaying 3 buffered messages
+[I 16:15:29.147 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:17:29.147 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:19:29.153 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 16:39:34.104 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 20:51:20.076 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 21:05:27.542 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 21:21:43.246 NotebookApp] Starting buffering for 127de460-0745-4dea-b075-6f22df5bc093:999ae690b50142509f11ff78136d7c67
+[C 01:03:28.368 NotebookApp] received signal 15, stopping
+[I 01:03:30.040 NotebookApp] Shutting down 1 kernel
+[I 01:03:30.993 NotebookApp] Kernel shutdown: 127de460-0745-4dea-b075-6f22df5bc093
+[I 01:03:31.734 NotebookApp] Shutting down 0 terminals
+[I 01:03:32.185 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 11:25:21.556 NotebookApp] The port 8888 is already in use, trying another port.
+[I 11:25:21.583 NotebookApp] Serving notebooks from local directory: /home/nuvhandra
+[I 11:25:21.583 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 11:25:21.584 NotebookApp] http://localhost:8889/?token=440dbb07d7685c04fad8ab798d40a45d816b1f039d66eb41
+[I 11:25:21.584 NotebookApp]  or http://127.0.0.1:8889/?token=440dbb07d7685c04fad8ab798d40a45d816b1f039d66eb41
+[I 11:25:21.584 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:25:21.696 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nuvhandra/.local/share/jupyter/runtime/nbserver-10629-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=440dbb07d7685c04fad8ab798d40a45d816b1f039d66eb41
+     or http://127.0.0.1:8889/?token=440dbb07d7685c04fad8ab798d40a45d816b1f039d66eb41
+[W 11:25:47.137 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201019112519 (::1) 24.05ms referer=http://localhost:8889/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[I 11:25:47.619 NotebookApp] Kernel started: dd84b3db-c427-4b2a-8f96-5982e7de0770, name: python3
+[I 11:27:47.480 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 11:29:47.460 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 11:29:54.422 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 11:30:36.439 NotebookApp] Starting buffering for dd84b3db-c427-4b2a-8f96-5982e7de0770:4e6f9d81f29c45b8bcefe70837826edc
+[W 11:30:40.402 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201019112519 (::1) 4.23ms referer=http://localhost:8889/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping_win.ipynb
+[I 11:30:40.981 NotebookApp] Kernel started: 0413ca55-7a37-4f6f-a60c-0b89a13e4ad8, name: python3
+[I 11:31:10.865 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[I 11:32:40.986 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[I 11:34:40.979 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[I 11:36:40.996 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[W 11:37:58.748 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201019112519 (::1) 4.63ms referer=http://localhost:8889/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[I 11:38:09.772 NotebookApp] Starting buffering for dd84b3db-c427-4b2a-8f96-5982e7de0770:ec97c52905544da2b7d22c1cf7453775
+[I 11:38:40.996 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[I 11:40:15.777 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[I 11:40:21.583 NotebookApp] Kernel interrupted: 0413ca55-7a37-4f6f-a60c-0b89a13e4ad8
+[I 11:40:23.752 NotebookApp] Kernel interrupted: 0413ca55-7a37-4f6f-a60c-0b89a13e4ad8
+[I 11:40:40.991 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[I 11:44:40.985 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[W 11:45:07.072 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201019112519 (::1) 2.27ms referer=http://localhost:8889/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[I 11:46:00.212 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[I 11:46:12.118 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[I 11:46:34.728 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 11:48:05.471 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 11:48:26.133 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[I 11:48:37.142 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping_win.ipynb
+[I 12:00:11.897 NotebookApp] Starting buffering for 0413ca55-7a37-4f6f-a60c-0b89a13e4ad8:c36adc98163e4c428240c7b5ac9b3411
+[I 12:02:59.779 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 12:04:59.788 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 12:06:59.782 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 12:10:59.784 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 12:12:05.888 NotebookApp] Starting buffering for dd84b3db-c427-4b2a-8f96-5982e7de0770:cde85b10026b4a17947414e3e8b875e8
+[W 20:50:02.122 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201019112519 (127.0.0.1) 28.91ms referer=http://localhost:8889/notebooks/Documents/hamoc/python-notebooks/Podio.ipynb
+[I 20:50:03.397 NotebookApp] Kernel started: 2faad381-c10f-44d9-915b-93c64ca7d37b, name: python3
+[I 20:58:03.132 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 22:13:50.962 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[W 09:27:12.767 NotebookApp] WebSocket ping timeout after 32280397 ms.
+[I 09:27:41.742 NotebookApp] Starting buffering for 2faad381-c10f-44d9-915b-93c64ca7d37b:bbd2fa0e101d4b13b9b2db830a9f9dd1
+[I 09:33:12.862 NotebookApp] Restoring connection for 2faad381-c10f-44d9-915b-93c64ca7d37b:bbd2fa0e101d4b13b9b2db830a9f9dd1
+[I 09:33:26.007 NotebookApp] Starting buffering for 2faad381-c10f-44d9-915b-93c64ca7d37b:bbd2fa0e101d4b13b9b2db830a9f9dd1
+[I 09:33:41.066 NotebookApp] Restoring connection for 2faad381-c10f-44d9-915b-93c64ca7d37b:bbd2fa0e101d4b13b9b2db830a9f9dd1
+[I 09:49:41.507 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 09:51:41.105 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 10:03:41.203 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 10:11:41.145 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 10:15:41.099 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 10:25:42.692 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 10:47:42.990 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 10:49:43.035 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 09:51:28.027 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 09:59:28.733 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 10:40:43.681 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 10:41:31.931 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[C 13:20:46.689 NotebookApp] received signal 15, stopping
+[I 13:20:49.734 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 13:20:55.302 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 13:20:55.486 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 2faad381-c10f-44d9-915b-93c64ca7d37b restarted
+[I 13:20:57.050 NotebookApp] Shutting down 3 kernels
+[I 13:21:02.259 NotebookApp] Kernel shutdown: dd84b3db-c427-4b2a-8f96-5982e7de0770
+[I 13:21:05.568 NotebookApp] Kernel shutdown: 0413ca55-7a37-4f6f-a60c-0b89a13e4ad8
+[I 13:21:05.604 NotebookApp] Kernel shutdown: 2faad381-c10f-44d9-915b-93c64ca7d37b
+[I 13:21:05.622 NotebookApp] Shutting down 0 terminals
+[W 13:21:05.695 NotebookApp] zmq message arrived on closed channel
+[I 13:21:05.696 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+[I 13:21:05.794 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+[I 13:21:05.801 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+WARNING:root:kernel 2faad381-c10f-44d9-915b-93c64ca7d37b restarted
+[W 13:21:05.814 NotebookApp] zmq message arrived on closed channel
+[W 13:21:05.815 NotebookApp] zmq message arrived on closed channel
+[W 13:21:05.817 NotebookApp] zmq message arrived on closed channel
+[E 13:21:05.817 NotebookApp] KernelRestarter: restart callback <bound method ZMQChannelsHandler.on_kernel_restarted of ZMQChannelsHandler(2faad381-c10f-44d9-915b-93c64ca7d37b)> failed
+    Traceback (most recent call last):
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/jupyter_client/restarter.py", line 86, in _fire_callbacks
+        callback()
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 476, in on_kernel_restarted
+        self._send_status_message('restarting')
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 472, in _send_status_message
+        self.write_message(json.dumps(msg, default=date_default))
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[W 13:21:06.225 NotebookApp] Got events for closed stream None
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 11:53:47.139 NotebookApp] Serving notebooks from local directory: /home/nuvhandra
+[I 11:53:47.150 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 11:53:47.150 NotebookApp] http://localhost:8888/?token=71fa845f831ab18083ea7ae3fa3dff89a35952d3b56ee878
+[I 11:53:47.150 NotebookApp]  or http://127.0.0.1:8888/?token=71fa845f831ab18083ea7ae3fa3dff89a35952d3b56ee878
+[I 11:53:47.151 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:53:47.265 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nuvhandra/.local/share/jupyter/runtime/nbserver-25246-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=71fa845f831ab18083ea7ae3fa3dff89a35952d3b56ee878
+     or http://127.0.0.1:8888/?token=71fa845f831ab18083ea7ae3fa3dff89a35952d3b56ee878
+[I 11:54:09.664 NotebookApp] Kernel started: 33f47db9-ab32-42be-b98b-546e135675ca, name: python3
+[W 11:54:09.756 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201026115345 (::1) 81.02ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[I 11:55:00.288 NotebookApp] Starting buffering for 33f47db9-ab32-42be-b98b-546e135675ca:dfa1325ac2ee48559cb2f3b0c3d9eb45
+[I 11:55:00.822 NotebookApp] Kernel restarted: 33f47db9-ab32-42be-b98b-546e135675ca
+[I 11:55:00.874 NotebookApp] Restoring connection for 33f47db9-ab32-42be-b98b-546e135675ca:dfa1325ac2ee48559cb2f3b0c3d9eb45
+[I 11:55:00.874 NotebookApp] Replaying 3 buffered messages
+[I 11:56:09.477 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 11:57:01.122 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[W 11:57:18.651 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201026115345 (::1) 12.80ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping_win.ipynb
+[I 11:57:19.914 NotebookApp] Kernel started: 5af724f7-ad48-41ec-8cd8-35f2361f5598, name: python3
+[I 12:18:09.468 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:12:41.956 NotebookApp] Serving notebooks from local directory: /home/nuvhandra
+[I 13:12:41.984 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 13:12:41.984 NotebookApp] http://localhost:8888/?token=1282daaf4eaf395886fe89393f4b7e85c6d28c08302175be
+[I 13:12:41.984 NotebookApp]  or http://127.0.0.1:8888/?token=1282daaf4eaf395886fe89393f4b7e85c6d28c08302175be
+[I 13:12:41.985 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:12:42.082 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nuvhandra/.local/share/jupyter/runtime/nbserver-13225-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=1282daaf4eaf395886fe89393f4b7e85c6d28c08302175be
+     or http://127.0.0.1:8888/?token=1282daaf4eaf395886fe89393f4b7e85c6d28c08302175be
+[W 13:13:31.443 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201105131239 (::1) 60.40ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[I 13:13:32.223 NotebookApp] Kernel started: fd084567-a46e-4978-8c30-476655e82889, name: python3
+[I 13:14:30.553 NotebookApp] Starting buffering for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[I 13:14:31.086 NotebookApp] Kernel restarted: fd084567-a46e-4978-8c30-476655e82889
+[I 13:14:31.166 NotebookApp] Restoring connection for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[I 13:14:31.166 NotebookApp] Replaying 3 buffered messages
+[I 13:15:32.086 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:17:32.092 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 13:45:32.841 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:27:33.363 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:29:33.354 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:30:28.859 NotebookApp] Starting buffering for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[I 14:30:30.290 NotebookApp] Kernel restarted: fd084567-a46e-4978-8c30-476655e82889
+[I 14:30:30.321 NotebookApp] Restoring connection for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[I 14:30:30.321 NotebookApp] Replaying 3 buffered messages
+[I 14:31:33.353 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:32:16.154 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:32:37.514 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 14:32:41.515 NotebookApp] Kernel interrupted: fd084567-a46e-4978-8c30-476655e82889
+[I 14:32:44.889 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[W 14:40:15.710 NotebookApp] WebSocket ping timeout after 8970000 ms.
+[I 14:40:52.860 NotebookApp] Starting buffering for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[I 14:45:23.227 NotebookApp] Restoring connection for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[I 14:45:23.294 NotebookApp] Starting buffering for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[I 14:45:23.765 NotebookApp] Restoring connection for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[W 22:58:29.938 NotebookApp] WebSocket ping timeout after 21659999 ms.
+[I 22:59:03.833 NotebookApp] Starting buffering for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[I 23:09:15.200 NotebookApp] Restoring connection for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[I 23:09:37.943 NotebookApp] Starting buffering for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[I 23:09:38.995 NotebookApp] Restoring connection for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[W 23:09:46.929 NotebookApp] zmq message arrived on closed channel
+[W 23:09:47.315 NotebookApp] zmq message arrived on closed channel
+[I 23:16:32.181 NotebookApp] Starting buffering for fd084567-a46e-4978-8c30-476655e82889:6781ddbd9a5b49bd9a372dfe404648f6
+[C 00:14:32.497 NotebookApp] received signal 15, stopping
+[I 00:14:34.198 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel fd084567-a46e-4978-8c30-476655e82889 restarted
+[E 00:14:38.002 NotebookApp] KernelRestarter: restart callback <bound method ZMQChannelsHandler.on_kernel_restarted of ZMQChannelsHandler(fd084567-a46e-4978-8c30-476655e82889)> failed
+    Traceback (most recent call last):
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/jupyter_client/restarter.py", line 86, in _fire_callbacks
+        callback()
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 476, in on_kernel_restarted
+        self._send_status_message('restarting')
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 472, in _send_status_message
+        self.write_message(json.dumps(msg, default=date_default))
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 00:14:44.776 NotebookApp] Shutting down 1 kernel
+[I 00:14:49.799 NotebookApp] Kernel shutdown: fd084567-a46e-4978-8c30-476655e82889
+[I 00:14:49.873 NotebookApp] Shutting down 0 terminals
+[W 00:14:49.888 NotebookApp] zmq message arrived on closed channel
+[I 00:14:49.914 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+WARNING:root:kernel fd084567-a46e-4978-8c30-476655e82889 restarted
+[W 00:14:49.915 NotebookApp] zmq message arrived on closed channel
+[W 00:14:49.916 NotebookApp] zmq message arrived on closed channel
+[W 00:14:49.916 NotebookApp] zmq message arrived on closed channel
+[E 00:14:49.917 NotebookApp] KernelRestarter: restart callback <bound method ZMQChannelsHandler.on_kernel_restarted of ZMQChannelsHandler(fd084567-a46e-4978-8c30-476655e82889)> failed
+    Traceback (most recent call last):
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/jupyter_client/restarter.py", line 86, in _fire_callbacks
+        callback()
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 476, in on_kernel_restarted
+        self._send_status_message('restarting')
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 472, in _send_status_message
+        self.write_message(json.dumps(msg, default=date_default))
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/tornado/websocket.py", line 339, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
