@@ -414,3 +414,25 @@ WARNING:root:kernel fd084567-a46e-4978-8c30-476655e82889 restarted
         raise WebSocketClosedError()
     tornado.websocket.WebSocketClosedError
 [IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 10:10:47.479 NotebookApp] Serving notebooks from local directory: /home/nuvhandra
+[I 10:10:47.490 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 10:10:47.490 NotebookApp] http://localhost:8888/?token=5430c54356f3d662f3b0aff69328bab543adf61d0f1322f0
+[I 10:10:47.490 NotebookApp]  or http://127.0.0.1:8888/?token=5430c54356f3d662f3b0aff69328bab543adf61d0f1322f0
+[I 10:10:47.491 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:10:47.573 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nuvhandra/.local/share/jupyter/runtime/nbserver-5682-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=5430c54356f3d662f3b0aff69328bab543adf61d0f1322f0
+     or http://127.0.0.1:8888/?token=5430c54356f3d662f3b0aff69328bab543adf61d0f1322f0
+[I 14:38:09.070 NotebookApp] Creating new notebook in /Documents/hamoc/python-notebooks
+[W 14:38:12.267 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (::1) 29.88ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Untitled.ipynb?kernel_name=python3
+[I 14:38:12.646 NotebookApp] Kernel started: ec42e597-ea69-4c31-be5b-fcf2fef0bc86, name: python3
+[I 14:40:12.551 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:47:45.244 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:48:12.502 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:50:12.508 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:52:12.506 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:54:12.511 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:56:12.509 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
