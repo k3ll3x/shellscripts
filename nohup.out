@@ -468,3 +468,1317 @@ WARNING:root:kernel fd084567-a46e-4978-8c30-476655e82889 restarted
 [I 16:32:51.512 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
 [I 16:34:51.514 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
 [I 17:10:51.542 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:28:51.629 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 09:26:55.044 NotebookApp] WebSocket ping timeout after 45339045 ms.
+[I 09:27:18.166 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:1a6958e72c4c47038af037a18a374b2c
+[I 09:31:36.259 NotebookApp] Restoring connection for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:1a6958e72c4c47038af037a18a374b2c
+[I 10:10:03.366 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 10:23:40.970 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:45.405 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:46.523 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:46.908 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:47.086 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:47.226 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:47.395 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:47.553 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:47.720 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:48.060 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:48.245 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:48.412 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:48.587 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:48.760 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:48.919 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:49.119 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:49.362 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:49.734 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:49.944 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:23:50.445 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 10:26:03.221 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 12:32:03.236 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 12:34:03.244 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 12:36:03.190 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 12:48:03.197 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 12:50:03.231 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 12:52:03.205 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 12:54:03.192 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 12:56:03.195 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 12:58:03.227 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:12:03.209 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:14:03.198 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:22:03.213 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:28:03.206 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:30:03.205 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:32:03.342 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 13:44:21.684 NotebookApp] Notebook Documents/hamoc/python-notebooks/Podio.ipynb is not trusted
+[W 13:44:21.900 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (::1) 39.01ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Podio.ipynb
+[I 13:44:23.378 NotebookApp] Kernel started: 29c15209-2786-4b14-aad7-4609adb2a609, name: python3
+[I 13:45:12.102 NotebookApp] Starting buffering for 29c15209-2786-4b14-aad7-4609adb2a609:fc514f61b55e496c8dd5047840fcf220
+[I 13:48:03.287 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:50:03.225 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:52:03.358 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:53:09.527 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:54:03.276 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:56:03.305 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:58:03.253 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:00:03.255 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:02:03.228 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:04:03.370 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:06:03.219 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:08:03.197 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:10:03.320 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:32:03.200 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:34:03.206 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:30:03.226 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:32:03.219 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:34:03.217 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:36:03.214 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:38:03.271 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:16:03.249 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[E 17:42:58.980 NotebookApp] nbconvert failed: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    https://pandoc.org/installing.html
+    Traceback (most recent call last):
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/notebook/nbconvert/handlers.py", line 132, in get
+        resources=resource_dict
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/nbconvert/exporters/pdf.py", line 169, in from_notebook_node
+        nb, resources=resources, **kw
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/nbconvert/exporters/latex.py", line 77, in from_notebook_node
+        return super().from_notebook_node(nb, resources, **kw)
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/nbconvert/exporters/templateexporter.py", line 382, in from_notebook_node
+        output = self.template.render(nb=nb_copy, resources=resources)
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/jinja2/environment.py", line 1090, in render
+        self.environment.handle_exception()
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/jinja2/environment.py", line 832, in handle_exception
+        reraise(*rewrite_traceback_stack(source=source))
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/jinja2/_compat.py", line 28, in reraise
+        raise value.with_traceback(tb)
+      File "/home/nuvhandra/.local/share/jupyter/nbconvert/templates/latex/index.tex.j2", line 8, in top-level template code
+        ((* extends cell_style *))
+      File "/home/nuvhandra/.local/share/jupyter/nbconvert/templates/latex/style_jupyter.tex.j2", line 176, in top-level template code
+        \prompt{(((prompt)))}{(((prompt_color)))}{(((execution_count)))}{(((extra_space)))}
+      File "/home/nuvhandra/.local/share/jupyter/nbconvert/templates/latex/base.tex.j2", line 7, in top-level template code
+        ((*- extends 'document_contents.tex.j2' -*))
+      File "/home/nuvhandra/.local/share/jupyter/nbconvert/templates/latex/document_contents.tex.j2", line 51, in top-level template code
+        ((*- block figure scoped -*))
+      File "/home/nuvhandra/.local/share/jupyter/nbconvert/templates/latex/display_priority.j2", line 5, in top-level template code
+        ((*- extends 'null.j2' -*))
+      File "/home/nuvhandra/.local/share/jupyter/nbconvert/templates/latex/null.j2", line 30, in top-level template code
+        ((*- block body -*))
+      File "/home/nuvhandra/.local/share/jupyter/nbconvert/templates/latex/base.tex.j2", line 206, in block "body"
+        ((( super() )))
+      File "/home/nuvhandra/.local/share/jupyter/nbconvert/templates/latex/null.j2", line 32, in block "body"
+        ((*- block any_cell scoped -*))
+      File "/home/nuvhandra/.local/share/jupyter/nbconvert/templates/latex/null.j2", line 85, in block "any_cell"
+        ((*- block markdowncell scoped-*)) ((*- endblock markdowncell -*))
+      File "/home/nuvhandra/.local/share/jupyter/nbconvert/templates/latex/document_contents.tex.j2", line 68, in block "markdowncell"
+        ((( cell.source | citation2latex | strip_files_prefix | convert_pandoc('markdown+tex_math_double_backslash', 'json',extra_args=[]) | resolve_references | convert_pandoc('json','latex'))))
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/nbconvert/filters/pandoc.py", line 24, in convert_pandoc
+        return pandoc(source, from_format, to_format, extra_args=extra_args)
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/nbconvert/utils/pandoc.py", line 52, in pandoc
+        check_pandoc_version()
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/nbconvert/utils/pandoc.py", line 100, in check_pandoc_version
+        v = get_pandoc_version()
+      File "/home/nuvhandra/.local/lib/python3.7/site-packages/nbconvert/utils/pandoc.py", line 77, in get_pandoc_version
+        raise PandocMissing()
+    nbconvert.utils.pandoc.PandocMissing: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    https://pandoc.org/installing.html
+[W 17:42:59.056 NotebookApp] 500 GET /nbconvert/pdf/Documents/hamoc/python-notebooks/STP.ipynb?download=true (127.0.0.1): nbconvert failed: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    https://pandoc.org/installing.html
+[E 17:42:59.070 NotebookApp] {
+      "Host": "localhost:8888",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+      "Accept-Language": "en-US,es-MX;q=0.8,es;q=0.5,en;q=0.3",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb",
+      "Cookie": "username-localhost-8888=\"2|1:0|10:1605111049|23:username-localhost-8888|44:NWJmYzljNDgyYmU4NGE5MWFjZDUyZDUyZTc0ZTNmYjY=|3b3d83cfead1332fd8f401fe213929f87efda9f844bf6d0f8ea6cb8d350d1af9\"; username-localhost-8889=\"2|1:0|10:1603124723|23:username-localhost-8889|44:ODFlYjQwODRkY2NmNDgzN2JkODM4MWJiZTliMWIyZjQ=|f248d2f72396ccec7d514adcf19eb1e096750b3be35e3832cbd80f8ae3c84301\"; _xsrf=2|d179826f|91dcae6917e7fa58c5d5b56fe25e203c|1602784193; _ga=GA1.1.718242861.1605085282",
+      "Upgrade-Insecure-Requests": "1"
+    }
+[E 17:42:59.070 NotebookApp] 500 GET /nbconvert/pdf/Documents/hamoc/python-notebooks/STP.ipynb?download=true (127.0.0.1) 2271.81ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:48:03.284 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:02:03.250 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:04:03.239 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:06:03.244 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:08:03.656 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:14:03.448 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:16:03.234 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:18:03.231 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:20:03.256 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:22:03.234 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:26:03.266 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:28:03.274 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:30:03.339 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:32:03.243 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:34:03.251 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:35:17.036 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:36:03.333 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:38:03.339 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:42:03.350 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:44:03.352 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:46:03.364 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:48:03.338 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:50:03.384 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:52:03.331 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:54:03.343 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:56:03.340 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:58:03.337 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:58:24.118 NotebookApp] 302 GET / (127.0.0.1) 1.09ms
+[I 18:59:12.494 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:1a6958e72c4c47038af037a18a374b2c
+[W 18:59:21.398 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (127.0.0.1) 111.11ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:59:45.159 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:3389d8fd535f435782475586cee7a7df
+[W 18:59:50.533 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (127.0.0.1) 4.76ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:00:10.341 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (127.0.0.1) 3.13ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP_bkp.ipynb
+[I 19:00:12.180 NotebookApp] Kernel started: 6ce292f4-4730-4980-824a-11ea73e1500d, name: python3
+[I 19:01:52.127 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:03:52.118 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:05:52.120 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:07:52.152 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:09:52.120 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:13:52.152 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:15:52.116 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:19:52.128 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:21:52.127 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:23:52.129 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:25:52.127 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:27:52.166 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:29:52.178 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:31:52.169 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:33:52.154 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:35:52.127 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:37:52.144 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:39:52.159 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:41:52.134 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:43:52.997 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:45:52.791 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:47:52.825 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:49:52.794 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:51:52.799 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:52:15.966 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 19:53:52.793 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:55:52.789 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:57:52.801 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:59:52.789 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 20:01:52.799 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 20:03:52.796 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 20:05:52.789 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 20:07:52.787 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 20:55:52.847 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 20:56:19.277 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 20:57:52.838 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 20:59:52.863 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:03:52.920 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:05:26.943 NotebookApp] Starting buffering for 6ce292f4-4730-4980-824a-11ea73e1500d:94f1ece329ab4c6bbe4738afa298782a
+[I 21:05:33.280 NotebookApp] Kernel shutdown: 6ce292f4-4730-4980-824a-11ea73e1500d
+[I 21:05:52.888 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:07:52.883 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:09:43.786 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:09:52.889 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:11:52.881 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:12:16.485 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:13:52.873 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:15:52.869 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:31:52.898 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:43:52.878 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:45:52.881 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:47:52.889 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:49:52.884 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:51:52.878 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:53:52.881 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:55:52.880 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 21:59:52.896 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:01:52.883 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:09:52.899 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:13:52.886 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:15:52.887 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:17:52.873 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:23:52.921 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:25:52.889 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:27:52.886 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:35:52.890 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:43:52.919 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:45:52.898 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:47:52.905 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:49:52.898 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:55:52.895 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:57:52.895 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 22:59:52.892 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 23:01:52.890 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 23:03:52.908 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 23:05:52.904 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 23:07:52.886 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 23:09:52.898 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 23:11:52.894 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:30:42.338 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:32:01.039 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:34:01.014 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:36:01.022 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:38:01.017 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:40:01.019 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:42:01.013 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:44:01.120 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:46:01.124 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:48:01.123 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:50:01.118 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 02:52:01.116 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 03:00:01.124 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 03:04:01.553 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 03:06:01.575 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 03:08:01.565 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 03:10:01.562 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 03:19:19.225 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 09:32:37.009 NotebookApp] WebSocket ping timeout after 31919999 ms.
+[I 09:33:15.765 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:3b584bb42cc442dc92cb3d29861d1667
+[I 09:43:29.479 NotebookApp] Restoring connection for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:3b584bb42cc442dc92cb3d29861d1667
+[I 09:43:33.106 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:3b584bb42cc442dc92cb3d29861d1667
+[I 09:43:58.097 NotebookApp] Restoring connection for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:3b584bb42cc442dc92cb3d29861d1667
+[W 10:12:20.081 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:12:20.106 NotebookApp] '_xsrf' argument missing from POST
+[W 10:12:20.107 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 324.47ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:14:18.616 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:14:18.617 NotebookApp] '_xsrf' argument missing from POST
+[W 10:14:18.617 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.19ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:16:18.617 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:16:18.617 NotebookApp] '_xsrf' argument missing from POST
+[W 10:16:18.618 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.72ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:18:18.576 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:18:18.576 NotebookApp] '_xsrf' argument missing from POST
+[W 10:18:18.577 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.91ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:20:18.618 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:20:18.619 NotebookApp] '_xsrf' argument missing from POST
+[W 10:20:18.621 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.05ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:22:18.580 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:22:18.580 NotebookApp] '_xsrf' argument missing from POST
+[W 10:22:18.582 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.57ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:24:18.581 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:24:18.581 NotebookApp] '_xsrf' argument missing from POST
+[W 10:24:18.581 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.26ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:26:18.654 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:26:18.654 NotebookApp] '_xsrf' argument missing from POST
+[W 10:26:18.655 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.88ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:28:18.660 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:28:18.661 NotebookApp] '_xsrf' argument missing from POST
+[W 10:28:18.661 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 13.11ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:30:18.664 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:30:18.665 NotebookApp] '_xsrf' argument missing from POST
+[W 10:30:18.665 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.02ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:32:18.620 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:32:18.620 NotebookApp] '_xsrf' argument missing from POST
+[W 10:32:18.621 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.65ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:34:18.621 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:34:18.622 NotebookApp] '_xsrf' argument missing from POST
+[W 10:34:18.623 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 4.38ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:36:18.602 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:36:18.603 NotebookApp] '_xsrf' argument missing from POST
+[W 10:36:18.603 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.42ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:38:18.589 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:38:18.590 NotebookApp] '_xsrf' argument missing from POST
+[W 10:38:18.590 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.74ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:40:18.688 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:40:18.688 NotebookApp] '_xsrf' argument missing from POST
+[W 10:40:18.689 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.31ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:42:18.726 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:42:18.726 NotebookApp] '_xsrf' argument missing from POST
+[W 10:42:18.727 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.77ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:44:18.578 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:44:18.578 NotebookApp] '_xsrf' argument missing from POST
+[W 10:44:18.579 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.88ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:46:18.578 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:46:18.578 NotebookApp] '_xsrf' argument missing from POST
+[W 10:46:18.579 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.92ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:48:18.670 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:48:18.671 NotebookApp] '_xsrf' argument missing from POST
+[W 10:48:18.671 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.16ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:50:18.993 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:50:19.101 NotebookApp] '_xsrf' argument missing from POST
+[W 10:50:19.102 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 110.13ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:52:18.760 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:52:18.779 NotebookApp] '_xsrf' argument missing from POST
+[W 10:52:18.780 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 21.04ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:54:18.779 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:54:18.780 NotebookApp] '_xsrf' argument missing from POST
+[W 10:54:18.780 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.51ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:56:18.787 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:56:18.824 NotebookApp] '_xsrf' argument missing from POST
+[W 10:56:18.850 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 64.15ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:58:18.726 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 10:58:18.747 NotebookApp] '_xsrf' argument missing from POST
+[W 10:58:18.748 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 23.47ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:00:18.818 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:00:18.870 NotebookApp] '_xsrf' argument missing from POST
+[W 11:00:18.871 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 54.81ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:02:18.678 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:02:18.737 NotebookApp] '_xsrf' argument missing from POST
+[W 11:02:18.738 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 61.03ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:04:18.701 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:04:18.716 NotebookApp] '_xsrf' argument missing from POST
+[W 11:04:18.716 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 16.69ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:06:18.675 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:06:18.675 NotebookApp] '_xsrf' argument missing from POST
+[W 11:06:18.676 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.88ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:08:18.698 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:08:18.698 NotebookApp] '_xsrf' argument missing from POST
+[W 11:08:18.699 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.57ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:10:18.715 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:10:18.715 NotebookApp] '_xsrf' argument missing from POST
+[W 11:10:18.716 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.59ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:12:18.703 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:12:18.704 NotebookApp] '_xsrf' argument missing from POST
+[W 11:12:18.705 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.08ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:14:18.675 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:14:18.675 NotebookApp] '_xsrf' argument missing from POST
+[W 11:14:18.676 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.02ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:16:18.686 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:16:18.686 NotebookApp] '_xsrf' argument missing from POST
+[W 11:16:18.689 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 4.80ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:18:18.680 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:18:18.681 NotebookApp] '_xsrf' argument missing from POST
+[W 11:18:18.681 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.86ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:20:18.681 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:20:18.681 NotebookApp] '_xsrf' argument missing from POST
+[W 11:20:18.682 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.91ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:22:18.699 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:22:18.699 NotebookApp] '_xsrf' argument missing from POST
+[W 11:22:18.700 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.87ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:24:18.725 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:24:18.726 NotebookApp] '_xsrf' argument missing from POST
+[W 11:24:18.726 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.04ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:26:18.678 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:26:18.678 NotebookApp] '_xsrf' argument missing from POST
+[W 11:26:18.679 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.78ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:28:18.737 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:28:18.737 NotebookApp] '_xsrf' argument missing from POST
+[W 11:28:18.738 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.02ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:30:18.700 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:30:18.701 NotebookApp] '_xsrf' argument missing from POST
+[W 11:30:18.702 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.92ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:32:18.695 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:32:18.695 NotebookApp] '_xsrf' argument missing from POST
+[W 11:32:18.696 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.06ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:34:18.732 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:34:18.732 NotebookApp] '_xsrf' argument missing from POST
+[W 11:34:18.735 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 4.49ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:36:18.695 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:36:18.695 NotebookApp] '_xsrf' argument missing from POST
+[W 11:36:18.695 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.81ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:38:18.690 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:38:18.691 NotebookApp] '_xsrf' argument missing from POST
+[W 11:38:18.691 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.78ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:40:18.699 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:40:18.699 NotebookApp] '_xsrf' argument missing from POST
+[W 11:40:18.700 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.11ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:42:18.701 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:42:18.702 NotebookApp] '_xsrf' argument missing from POST
+[W 11:42:18.703 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.55ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:44:18.734 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:44:18.735 NotebookApp] '_xsrf' argument missing from POST
+[W 11:44:18.736 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 59.39ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:46:18.704 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:46:18.704 NotebookApp] '_xsrf' argument missing from POST
+[W 11:46:18.705 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.80ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:48:18.705 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:48:18.824 NotebookApp] '_xsrf' argument missing from POST
+[W 11:48:18.824 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 120.77ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:50:18.685 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:50:18.713 NotebookApp] '_xsrf' argument missing from POST
+[W 11:50:18.714 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 29.49ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:52:18.716 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:52:18.717 NotebookApp] '_xsrf' argument missing from POST
+[W 11:52:18.718 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.57ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:54:18.689 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:54:18.690 NotebookApp] '_xsrf' argument missing from POST
+[W 11:54:18.690 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.90ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:56:18.691 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:56:18.692 NotebookApp] '_xsrf' argument missing from POST
+[W 11:56:18.692 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.94ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 11:58:18.688 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 11:58:18.689 NotebookApp] '_xsrf' argument missing from POST
+[W 11:58:18.689 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.12ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:00:18.689 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:00:18.690 NotebookApp] '_xsrf' argument missing from POST
+[W 12:00:18.690 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.46ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:02:18.688 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:02:18.689 NotebookApp] '_xsrf' argument missing from POST
+[W 12:02:18.689 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.05ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:04:18.687 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:04:18.705 NotebookApp] '_xsrf' argument missing from POST
+[W 12:04:18.706 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 19.57ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:06:18.703 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:06:18.703 NotebookApp] '_xsrf' argument missing from POST
+[W 12:06:18.703 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.78ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:08:18.701 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:08:18.702 NotebookApp] '_xsrf' argument missing from POST
+[W 12:08:18.702 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.94ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:10:18.685 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:10:18.686 NotebookApp] '_xsrf' argument missing from POST
+[W 12:10:18.687 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 5.19ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:12:18.690 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:12:18.691 NotebookApp] '_xsrf' argument missing from POST
+[W 12:12:18.691 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.26ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:14:18.684 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:14:18.685 NotebookApp] '_xsrf' argument missing from POST
+[W 12:14:18.686 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.81ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:16:18.687 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:16:18.688 NotebookApp] '_xsrf' argument missing from POST
+[W 12:16:18.688 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.85ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:18:18.697 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:18:18.697 NotebookApp] '_xsrf' argument missing from POST
+[W 12:18:18.698 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.87ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:20:18.692 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:20:18.693 NotebookApp] '_xsrf' argument missing from POST
+[W 12:20:18.693 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.37ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:22:18.701 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:22:18.701 NotebookApp] '_xsrf' argument missing from POST
+[W 12:22:18.702 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.63ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:24:18.749 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:24:18.749 NotebookApp] '_xsrf' argument missing from POST
+[W 12:24:18.749 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.93ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:26:18.686 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:26:18.686 NotebookApp] '_xsrf' argument missing from POST
+[W 12:26:18.687 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.98ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:28:18.689 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:28:18.689 NotebookApp] '_xsrf' argument missing from POST
+[W 12:28:18.690 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.64ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:30:18.693 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:30:18.694 NotebookApp] '_xsrf' argument missing from POST
+[W 12:30:18.694 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.76ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:32:18.685 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:32:18.686 NotebookApp] '_xsrf' argument missing from POST
+[W 12:32:18.687 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.87ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:34:18.802 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:34:18.802 NotebookApp] '_xsrf' argument missing from POST
+[W 12:34:18.803 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.17ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:36:18.689 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:36:18.690 NotebookApp] '_xsrf' argument missing from POST
+[W 12:36:18.690 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.75ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:38:18.796 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:38:18.797 NotebookApp] '_xsrf' argument missing from POST
+[W 12:38:18.798 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 100.96ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:40:18.698 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:40:18.699 NotebookApp] '_xsrf' argument missing from POST
+[W 12:40:18.700 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.98ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:42:18.698 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:42:18.698 NotebookApp] '_xsrf' argument missing from POST
+[W 12:42:18.699 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.85ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:44:18.700 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:44:18.701 NotebookApp] '_xsrf' argument missing from POST
+[W 12:44:18.701 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 3.49ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:46:18.696 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:46:18.696 NotebookApp] '_xsrf' argument missing from POST
+[W 12:46:18.697 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.28ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:48:18.693 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:48:18.694 NotebookApp] '_xsrf' argument missing from POST
+[W 12:48:18.694 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.13ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:50:18.694 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:50:18.694 NotebookApp] '_xsrf' argument missing from POST
+[W 12:50:18.694 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.82ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 12:52:18.694 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 12:52:18.695 NotebookApp] '_xsrf' argument missing from POST
+[W 12:52:18.695 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 2.44ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:23:17.498 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 16:23:18.149 NotebookApp] '_xsrf' argument missing from POST
+[W 16:23:18.392 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 896.61ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:23:18.426 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 16:23:18.426 NotebookApp] '_xsrf' argument missing from POST
+[W 16:23:18.513 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 89.01ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:23:58.447 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 16:23:58.447 NotebookApp] '_xsrf' argument missing from POST
+[W 16:23:58.448 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.56ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:25:55.934 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1): '_xsrf' argument missing from POST
+[W 16:25:55.934 NotebookApp] '_xsrf' argument missing from POST
+[W 16:25:55.935 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (::1) 1.99ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:30:59.297 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:30:59.297 NotebookApp] '_xsrf' argument missing from POST
+[W 16:30:59.297 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.50ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:31:23.586 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:31:23.587 NotebookApp] '_xsrf' argument missing from POST
+[W 16:31:23.588 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.08ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:33:23.218 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:33:23.219 NotebookApp] '_xsrf' argument missing from POST
+[W 16:33:23.220 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.52ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:35:23.158 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:35:23.158 NotebookApp] '_xsrf' argument missing from POST
+[W 16:35:23.159 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.72ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:37:23.218 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:37:23.219 NotebookApp] '_xsrf' argument missing from POST
+[W 16:37:23.219 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.74ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:39:23.154 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:39:23.155 NotebookApp] '_xsrf' argument missing from POST
+[W 16:39:23.155 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.98ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:41:23.834 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:41:23.834 NotebookApp] '_xsrf' argument missing from POST
+[W 16:41:23.835 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.02ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:43:23.797 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:43:23.798 NotebookApp] '_xsrf' argument missing from POST
+[W 16:43:23.798 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.07ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:45:23.789 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:45:23.790 NotebookApp] '_xsrf' argument missing from POST
+[W 16:45:23.790 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.14ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:47:23.805 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:47:23.805 NotebookApp] '_xsrf' argument missing from POST
+[W 16:47:23.806 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.81ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:49:23.790 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:49:23.790 NotebookApp] '_xsrf' argument missing from POST
+[W 16:49:23.791 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.70ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:51:23.797 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:51:23.797 NotebookApp] '_xsrf' argument missing from POST
+[W 16:51:23.798 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.91ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:53:23.797 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:53:23.797 NotebookApp] '_xsrf' argument missing from POST
+[W 16:53:23.798 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.77ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:55:23.800 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:55:23.800 NotebookApp] '_xsrf' argument missing from POST
+[W 16:55:23.801 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.79ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:57:23.908 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:57:23.909 NotebookApp] '_xsrf' argument missing from POST
+[W 16:57:23.909 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.71ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:59:23.815 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 16:59:23.815 NotebookApp] '_xsrf' argument missing from POST
+[W 16:59:23.816 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.38ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:01:23.797 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:01:23.797 NotebookApp] '_xsrf' argument missing from POST
+[W 17:01:23.798 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.41ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:03:23.822 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:03:23.823 NotebookApp] '_xsrf' argument missing from POST
+[W 17:03:23.823 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.09ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:05:23.798 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:05:23.798 NotebookApp] '_xsrf' argument missing from POST
+[W 17:05:23.798 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.04ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:07:23.801 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:07:23.801 NotebookApp] '_xsrf' argument missing from POST
+[W 17:07:23.802 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.48ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:09:23.919 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:09:23.919 NotebookApp] '_xsrf' argument missing from POST
+[W 17:09:23.920 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.67ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:11:23.845 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:11:23.845 NotebookApp] '_xsrf' argument missing from POST
+[W 17:11:23.846 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.57ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:13:23.839 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:13:23.839 NotebookApp] '_xsrf' argument missing from POST
+[W 17:13:23.840 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.52ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:15:23.943 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:15:23.943 NotebookApp] '_xsrf' argument missing from POST
+[W 17:15:23.944 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.63ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:17:23.820 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:17:23.821 NotebookApp] '_xsrf' argument missing from POST
+[W 17:17:23.822 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.55ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:19:23.804 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:19:23.804 NotebookApp] '_xsrf' argument missing from POST
+[W 17:19:23.806 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.84ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:21:23.802 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:21:23.802 NotebookApp] '_xsrf' argument missing from POST
+[W 17:21:23.802 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.76ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:23:23.804 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:23:23.804 NotebookApp] '_xsrf' argument missing from POST
+[W 17:23:23.805 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.72ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:25:23.821 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:25:23.821 NotebookApp] '_xsrf' argument missing from POST
+[W 17:25:23.822 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.42ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:27:23.799 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:27:23.799 NotebookApp] '_xsrf' argument missing from POST
+[W 17:27:23.800 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.03ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:29:23.803 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:29:23.804 NotebookApp] '_xsrf' argument missing from POST
+[W 17:29:23.804 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.81ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:31:23.849 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:31:23.849 NotebookApp] '_xsrf' argument missing from POST
+[W 17:31:23.850 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.66ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:33:23.811 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:33:23.811 NotebookApp] '_xsrf' argument missing from POST
+[W 17:33:23.811 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.01ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:35:23.802 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:35:23.802 NotebookApp] '_xsrf' argument missing from POST
+[W 17:35:23.802 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.94ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:37:23.809 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:37:23.809 NotebookApp] '_xsrf' argument missing from POST
+[W 17:37:23.810 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.73ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:39:23.808 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:39:23.808 NotebookApp] '_xsrf' argument missing from POST
+[W 17:39:23.809 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.12ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:41:23.808 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:41:23.808 NotebookApp] '_xsrf' argument missing from POST
+[W 17:41:23.809 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.07ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:41:24.499 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:41:24.500 NotebookApp] '_xsrf' argument missing from POST
+[W 17:41:24.500 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.62ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:43:23.799 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:43:23.799 NotebookApp] '_xsrf' argument missing from POST
+[W 17:43:23.800 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.81ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:45:23.833 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:45:23.833 NotebookApp] '_xsrf' argument missing from POST
+[W 17:45:23.834 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.00ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:47:23.922 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:47:23.923 NotebookApp] '_xsrf' argument missing from POST
+[W 17:47:23.925 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.42ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:49:23.821 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:49:23.822 NotebookApp] '_xsrf' argument missing from POST
+[W 17:49:23.823 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.02ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:51:23.812 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:51:23.812 NotebookApp] '_xsrf' argument missing from POST
+[W 17:51:23.813 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.68ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:53:24.009 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:53:24.009 NotebookApp] '_xsrf' argument missing from POST
+[W 17:53:24.010 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.16ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:55:23.812 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:55:23.812 NotebookApp] '_xsrf' argument missing from POST
+[W 17:55:23.812 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.05ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:57:23.800 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:57:23.800 NotebookApp] '_xsrf' argument missing from POST
+[W 17:57:23.801 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.85ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:59:23.803 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 17:59:23.804 NotebookApp] '_xsrf' argument missing from POST
+[W 17:59:23.804 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.83ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:01:23.800 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:01:23.800 NotebookApp] '_xsrf' argument missing from POST
+[W 18:01:23.801 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.80ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:03:23.816 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:03:23.816 NotebookApp] '_xsrf' argument missing from POST
+[W 18:03:23.816 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.56ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:05:23.823 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:05:23.824 NotebookApp] '_xsrf' argument missing from POST
+[W 18:05:23.824 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.77ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:07:23.812 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:07:23.813 NotebookApp] '_xsrf' argument missing from POST
+[W 18:07:23.813 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.02ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:09:23.808 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:09:23.808 NotebookApp] '_xsrf' argument missing from POST
+[W 18:09:23.809 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.64ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:11:23.810 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:11:23.810 NotebookApp] '_xsrf' argument missing from POST
+[W 18:11:23.810 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.05ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:13:23.808 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:13:23.808 NotebookApp] '_xsrf' argument missing from POST
+[W 18:13:23.809 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.59ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:15:23.807 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:15:23.808 NotebookApp] '_xsrf' argument missing from POST
+[W 18:15:23.808 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.19ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:17:23.811 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:17:23.811 NotebookApp] '_xsrf' argument missing from POST
+[W 18:17:23.812 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.89ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:19:23.812 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:19:23.812 NotebookApp] '_xsrf' argument missing from POST
+[W 18:19:23.813 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.51ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:21:23.817 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:21:23.817 NotebookApp] '_xsrf' argument missing from POST
+[W 18:21:23.818 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.66ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:23:23.808 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:23:23.808 NotebookApp] '_xsrf' argument missing from POST
+[W 18:23:23.809 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.17ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:25:23.833 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:25:23.834 NotebookApp] '_xsrf' argument missing from POST
+[W 18:25:23.834 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.85ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:27:24.222 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:27:24.223 NotebookApp] '_xsrf' argument missing from POST
+[W 18:27:24.223 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.71ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:29:24.320 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:29:24.321 NotebookApp] '_xsrf' argument missing from POST
+[W 18:29:24.321 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.84ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:31:24.213 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:31:24.214 NotebookApp] '_xsrf' argument missing from POST
+[W 18:31:24.214 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.98ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:33:24.220 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:33:24.221 NotebookApp] '_xsrf' argument missing from POST
+[W 18:33:24.221 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.31ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:35:24.219 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:35:24.220 NotebookApp] '_xsrf' argument missing from POST
+[W 18:35:24.221 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.46ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:37:24.209 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:37:24.210 NotebookApp] '_xsrf' argument missing from POST
+[W 18:37:24.210 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.26ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:39:24.213 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:39:24.214 NotebookApp] '_xsrf' argument missing from POST
+[W 18:39:24.214 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.93ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:41:24.225 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:41:24.226 NotebookApp] '_xsrf' argument missing from POST
+[W 18:41:24.227 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.49ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:43:24.246 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:43:24.246 NotebookApp] '_xsrf' argument missing from POST
+[W 18:43:24.248 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 4.13ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:45:24.229 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:45:24.230 NotebookApp] '_xsrf' argument missing from POST
+[W 18:45:24.231 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 4.13ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:47:24.218 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:47:24.219 NotebookApp] '_xsrf' argument missing from POST
+[W 18:47:24.219 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.19ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:49:24.217 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:49:24.218 NotebookApp] '_xsrf' argument missing from POST
+[W 18:49:24.218 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.51ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:51:24.242 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:51:24.243 NotebookApp] '_xsrf' argument missing from POST
+[W 18:51:24.245 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 5.26ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:53:24.357 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:53:24.357 NotebookApp] '_xsrf' argument missing from POST
+[W 18:53:24.358 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.74ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:55:24.237 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:55:24.237 NotebookApp] '_xsrf' argument missing from POST
+[W 18:55:24.237 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.70ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:57:24.217 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:57:24.218 NotebookApp] '_xsrf' argument missing from POST
+[W 18:57:24.218 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.81ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:59:24.210 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 18:59:24.211 NotebookApp] '_xsrf' argument missing from POST
+[W 18:59:24.212 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.06ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:01:24.236 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:01:24.237 NotebookApp] '_xsrf' argument missing from POST
+[W 19:01:24.237 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.82ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:03:24.229 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:03:24.229 NotebookApp] '_xsrf' argument missing from POST
+[W 19:03:24.230 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.16ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:05:24.221 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:05:24.222 NotebookApp] '_xsrf' argument missing from POST
+[W 19:05:24.222 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.54ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:07:24.213 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:07:24.214 NotebookApp] '_xsrf' argument missing from POST
+[W 19:07:24.215 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.87ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:09:24.210 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:09:24.211 NotebookApp] '_xsrf' argument missing from POST
+[W 19:09:24.212 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.42ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:11:24.215 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:11:24.215 NotebookApp] '_xsrf' argument missing from POST
+[W 19:11:24.216 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.77ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:13:24.228 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:13:24.229 NotebookApp] '_xsrf' argument missing from POST
+[W 19:13:24.229 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.05ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:15:24.216 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:15:24.217 NotebookApp] '_xsrf' argument missing from POST
+[W 19:15:24.218 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.50ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:17:24.671 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:17:24.672 NotebookApp] '_xsrf' argument missing from POST
+[W 19:17:24.673 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.62ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:19:24.215 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:19:24.215 NotebookApp] '_xsrf' argument missing from POST
+[W 19:19:24.216 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.06ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:21:24.217 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:21:24.217 NotebookApp] '_xsrf' argument missing from POST
+[W 19:21:24.218 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 3.38ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:23:24.215 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:23:24.216 NotebookApp] '_xsrf' argument missing from POST
+[W 19:23:24.216 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.78ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:24:01.726 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:24:01.727 NotebookApp] '_xsrf' argument missing from POST
+[W 19:24:01.729 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 4.39ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:25:24.238 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:25:24.238 NotebookApp] '_xsrf' argument missing from POST
+[W 19:25:24.238 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.72ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:27:24.326 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:27:24.327 NotebookApp] '_xsrf' argument missing from POST
+[W 19:27:24.327 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 2.41ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:29:24.223 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1): '_xsrf' argument missing from POST
+[W 19:29:24.223 NotebookApp] '_xsrf' argument missing from POST
+[W 19:29:24.224 NotebookApp] 403 PUT /api/contents/Documents/hamoc/python-notebooks/STP.ipynb (127.0.0.1) 1.61ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:31:01.248 NotebookApp] 302 GET / (127.0.0.1) 80.18ms
+[I 19:31:24.386 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:53:08.976 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:53:34.999 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 19:53:44.351 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:3b584bb42cc442dc92cb3d29861d1667
+[I 13:01:22.298 NotebookApp] 302 GET / (::1) 946.01ms
+[W 13:02:48.083 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (::1) 208.15ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:04:49.788 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:06:49.819 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:08:49.761 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:10:49.757 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:12:49.782 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:20:07.432 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 13:20:13.150 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 13:32:27.159 NotebookApp] Notebook Documents/hamoc/python-notebooks/Podio.ipynb is not trusted
+[W 13:32:28.086 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (127.0.0.1) 3.50ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Podio.ipynb
+[I 13:34:28.047 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Podio.ipynb
+[I 13:36:50.078 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:50:49.784 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:52:49.783 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:54:49.845 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:56:49.766 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 13:58:49.805 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:14:49.794 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:18:49.828 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:42:49.809 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:44:49.791 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 14:46:49.768 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 15:24:49.876 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 15:32:49.933 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 15:34:49.833 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 15:36:49.803 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 15:38:49.782 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 15:40:49.782 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 15:42:49.773 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 15:58:49.789 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:00:49.794 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:02:50.626 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:04:50.659 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:06:51.527 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:10:51.462 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:12:51.466 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:16:50.646 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:18:50.643 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:20:51.474 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:46:50.634 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:58:50.637 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:06:50.660 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:08:50.639 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:10:50.636 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:12:50.637 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:18:50.642 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:20:50.669 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:22:50.632 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:28:50.624 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:30:50.642 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:34:50.645 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:38:50.626 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:40:50.638 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:42:50.638 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:44:50.634 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:46:50.636 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:48:50.639 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:50:50.744 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:54:50.731 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:56:50.681 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:58:50.677 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:00:50.718 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:02:50.676 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:04:50.670 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:08:39.517 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:08:50.685 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:10:50.676 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:42:50.693 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:46:50.710 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:50:50.685 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:52:50.774 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[I 12:58:44.319 NotebookApp] Starting buffering for 29c15209-2786-4b14-aad7-4609adb2a609:ec62e49e853147398cbf0d14778bbce8
+[I 12:58:45.097 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:22a8751b056245e38fba6c3b259a404d
+[W 23:40:13.146 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 23:40:13.673 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (::1) 397.64ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:45:55.519 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:10:03.294 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:10:03.354 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:12:03.008 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:12:03.009 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:14:03.025 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:14:03.026 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 17:20:09.786 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (::1) 1616.17ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Podio.ipynb
+[I 18:16:03.532 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:16:03.564 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 18:18:03.038 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:18:03.064 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 00:37:44.921 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:eda7696744c7493fa61836f064354394
+[I 00:37:47.207 NotebookApp] Starting buffering for 29c15209-2786-4b14-aad7-4609adb2a609:1b6b1a969bc342a38760ef32f681158e
+[I 16:59:57.689 NotebookApp] 302 GET / (::1) 1333.77ms
+[W 17:01:09.554 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 17:01:10.345 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (::1) 650.02ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:05:12.445 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:05:12.463 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:05:29.556 NotebookApp] Kernel interrupted: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 17:07:12.572 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:07:12.575 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:11:12.275 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:11:12.275 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:13:12.271 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:13:12.272 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:17:12.269 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:17:12.270 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 18:29:12.285 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:29:12.322 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 18:31:12.296 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:31:12.401 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 18:33:12.283 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:33:12.334 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 19:07:12.296 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:07:12.308 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 19:09:12.294 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:09:12.296 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 19:35:12.309 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:35:12.310 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 19:37:12.295 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:37:12.297 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 19:39:12.293 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:39:12.294 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 19:41:12.301 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:41:12.303 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 19:42:56.002 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:42:56.004 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 19:43:12.314 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:43:12.316 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 19:45:12.293 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:45:12.294 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 19:47:12.305 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:47:12.306 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 19:49:12.312 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 19:49:12.313 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 20:14:14.410 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 20:14:14.410 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 20:14:20.446 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 20:14:26.577 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 20:14:26.578 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 09:15:24.052 NotebookApp] WebSocket ping timeout after 37679998 ms.
+[I 09:15:50.137 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:4640753b914c46a58102f43d06eec731
+[I 09:23:53.203 NotebookApp] Restoring connection for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:4640753b914c46a58102f43d06eec731
+[I 09:24:03.957 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:4640753b914c46a58102f43d06eec731
+[I 09:24:11.383 NotebookApp] Restoring connection for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:4640753b914c46a58102f43d06eec731
+[I 15:09:59.376 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 15:10:01.201 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 15:13:52.037 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 15:13:52.039 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 16:36:42.530 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:36:42.564 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 16:36:43.142 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:36:43.144 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 16:36:43.360 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:36:43.361 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 16:36:47.753 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:4640753b914c46a58102f43d06eec731
+[W 18:54:35.415 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 18:54:36.624 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (::1) 834.79ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[I 18:56:26.133 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 18:56:26.134 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 21:28:37.560 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 21:28:37.561 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 21:30:37.615 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 21:30:37.616 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 21:32:37.551 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 21:32:37.552 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 21:33:39.123 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 21:33:39.127 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 21:34:37.487 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 21:34:37.488 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 21:36:37.489 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 21:36:37.490 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 21:38:37.485 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 21:38:37.486 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 21:40:37.488 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 21:40:37.489 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 21:42:37.490 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 21:42:37.491 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 21:44:37.494 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 21:44:37.495 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 21:46:17.572 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 21:46:17.573 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 21:46:24.050 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 10:40:14.986 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:0464ce46ec614f15b04bb12446c30d9b
+[W 11:10:28.872 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 11:10:29.438 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (::1) 428.90ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[I 15:12:19.310 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 15:12:19.515 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 15:20:18.908 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 15:20:18.908 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 15:52:18.864 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 15:52:18.865 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 15:54:18.904 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 15:54:18.905 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 15:58:18.863 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 15:58:18.864 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 16:07:52.335 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201111101045 (::1) 723.27ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[I 16:07:54.336 NotebookApp] Kernel started: ba486636-917d-44ce-91bf-98f9e7a1cdb8, name: python3
+[I 16:32:18.915 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:32:18.919 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 21:41:02.371 NotebookApp] WebSocket ping timeout after 8789999 ms.
+[W 21:41:06.310 NotebookApp] WebSocket ping timeout after 8793897 ms.
+[I 21:41:12.877 NotebookApp] Starting buffering for ba486636-917d-44ce-91bf-98f9e7a1cdb8:05f633b1b67e451fa0a0fe4b1c28aa39
+[I 21:41:18.838 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:66813c58e90742278faeab3c7e058070
+[I 21:48:21.595 NotebookApp] Restoring connection for ba486636-917d-44ce-91bf-98f9e7a1cdb8:05f633b1b67e451fa0a0fe4b1c28aa39
+[I 21:48:30.100 NotebookApp] Starting buffering for ba486636-917d-44ce-91bf-98f9e7a1cdb8:05f633b1b67e451fa0a0fe4b1c28aa39
+[I 21:48:31.642 NotebookApp] Restoring connection for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:66813c58e90742278faeab3c7e058070
+[I 21:48:58.249 NotebookApp] Restoring connection for ba486636-917d-44ce-91bf-98f9e7a1cdb8:05f633b1b67e451fa0a0fe4b1c28aa39
+[W 22:14:05.217 NotebookApp] WebSocket ping timeout after 11942295 ms.
+[I 22:14:13.794 NotebookApp] Starting buffering for ba486636-917d-44ce-91bf-98f9e7a1cdb8:05f633b1b67e451fa0a0fe4b1c28aa39
+[I 22:16:58.412 NotebookApp] Restoring connection for ba486636-917d-44ce-91bf-98f9e7a1cdb8:05f633b1b67e451fa0a0fe4b1c28aa39
+[W 09:27:43.442 NotebookApp] WebSocket ping timeout after 29709151 ms.
+[W 09:27:54.884 NotebookApp] WebSocket ping timeout after 29723239 ms.
+[I 09:28:08.418 NotebookApp] Starting buffering for ba486636-917d-44ce-91bf-98f9e7a1cdb8:05f633b1b67e451fa0a0fe4b1c28aa39
+[I 09:28:13.357 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:66813c58e90742278faeab3c7e058070
+[I 09:30:54.031 NotebookApp] Restoring connection for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:66813c58e90742278faeab3c7e058070
+[I 09:30:54.245 NotebookApp] Starting buffering for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:66813c58e90742278faeab3c7e058070
+[I 09:30:54.498 NotebookApp] Restoring connection for ba486636-917d-44ce-91bf-98f9e7a1cdb8:05f633b1b67e451fa0a0fe4b1c28aa39
+[I 09:31:24.047 NotebookApp] Restoring connection for ec42e597-ea69-4c31-be5b-fcf2fef0bc86:66813c58e90742278faeab3c7e058070
+[C 14:06:27.550 NotebookApp] received signal 15, stopping
+[I 14:06:33.018 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel ec42e597-ea69-4c31-be5b-fcf2fef0bc86 restarted
+[I 14:06:45.364 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 14:06:45.517 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel ba486636-917d-44ce-91bf-98f9e7a1cdb8 restarted
+[I 14:06:46.635 NotebookApp] Shutting down 3 kernels
+[I 14:06:52.546 NotebookApp] Kernel shutdown: ec42e597-ea69-4c31-be5b-fcf2fef0bc86
+[I 14:06:57.596 NotebookApp] Kernel shutdown: 29c15209-2786-4b14-aad7-4609adb2a609
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    [I 16:39:07.812 NotebookApp] Serving notebooks from local directory: /home/nuvhandra
+[I 16:39:07.824 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 16:39:07.824 NotebookApp] http://localhost:8888/?token=a2c13b88f13476f28d150fc1428bd2d1d26b876a1866d799
+[I 16:39:07.824 NotebookApp]  or http://127.0.0.1:8888/?token=a2c13b88f13476f28d150fc1428bd2d1d26b876a1866d799
+[I 16:39:07.825 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:39:07.934 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nuvhandra/.local/share/jupyter/runtime/nbserver-15892-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a2c13b88f13476f28d150fc1428bd2d1d26b876a1866d799
+     or http://127.0.0.1:8888/?token=a2c13b88f13476f28d150fc1428bd2d1d26b876a1866d799
+[W 16:51:22.613 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 16:51:22.724 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201201163905 (::1) 69.05ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[I 16:51:25.374 NotebookApp] Kernel started: 9ebc38dc-abf5-41df-9ddc-d1e32f1520a7, name: python3
+[W 16:52:49.209 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP_bkp2.ipynb is not trusted
+[W 16:52:49.326 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201201163905 (::1) 7.28ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP_bkp2.ipynb
+[I 16:52:51.568 NotebookApp] Kernel started: 972d62b4-eed2-4a4d-aa17-db1398e3160c, name: python3
+[I 16:53:25.219 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:53:25.222 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 16:55:33.122 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 16:55:33.123 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:01:33.355 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:01:33.357 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:03:35.749 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:03:35.750 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:05:35.419 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:05:35.420 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:07:35.344 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/STP.ipynb
+[W 17:07:35.345 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[I 17:17:56.012 NotebookApp] Starting buffering for 972d62b4-eed2-4a4d-aa17-db1398e3160c:f23ac6209cc841a6818e285de7336ed7
+[I 17:17:56.740 NotebookApp] Starting buffering for 9ebc38dc-abf5-41df-9ddc-d1e32f1520a7:75d5539ce33c4f0b998bfd37c04335df
+[I 15:48:45.834 NotebookApp] 302 GET / (::1) 2659.62ms
+[I 15:49:17.799 NotebookApp] Creating new notebook in /Documents/dev/python/notebooks
+[I 15:49:32.857 NotebookApp] Kernel started: 3aa27dbe-875c-4974-a67d-713b262c8b5b, name: python3
+[W 15:49:32.965 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201201163905 (::1) 96.86ms referer=http://localhost:8888/notebooks/Documents/dev/python/notebooks/Untitled.ipynb?kernel_name=python3
+[I 15:51:32.356 NotebookApp] Saving file at /Documents/dev/python/notebooks/opencv_00.ipynb
+[I 15:55:32.376 NotebookApp] Saving file at /Documents/dev/python/notebooks/opencv_00.ipynb
+[I 15:57:32.360 NotebookApp] Saving file at /Documents/dev/python/notebooks/opencv_00.ipynb
+[W 09:27:43.991 NotebookApp] WebSocket ping timeout after 49349998 ms.
+[I 09:28:09.392 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 09:33:20.474 NotebookApp] Restoring connection for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 09:33:44.872 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 09:33:53.178 NotebookApp] Restoring connection for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:21:22.485 NotebookApp] Saving file at /Documents/dev/python/notebooks/opencv_00.ipynb
+Gdk-Message: 13:21:51.822: Yeah: Fatal IO error 0 (Success) on X server :0.0.
+
+[I 13:21:53.533 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 3aa27dbe-875c-4974-a67d-713b262c8b5b restarted
+Gdk-Message: 13:22:29.707: Yeah: Fatal IO error 0 (Success) on X server :0.0.
+
+[I 13:22:30.311 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 3aa27dbe-875c-4974-a67d-713b262c8b5b restarted
+[I 13:22:35.108 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:22:35.578 NotebookApp] Kernel restarted: 3aa27dbe-875c-4974-a67d-713b262c8b5b
+[I 13:22:35.667 NotebookApp] Restoring connection for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:22:35.667 NotebookApp] Replaying 3 buffered messages
+[I 13:22:52.738 NotebookApp] Saving file at /Documents/dev/python/notebooks/opencv_00.ipynb
+[I 13:22:55.423 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:22:55.981 NotebookApp] Kernel restarted: 3aa27dbe-875c-4974-a67d-713b262c8b5b
+[I 13:22:56.041 NotebookApp] Restoring connection for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:22:56.041 NotebookApp] Replaying 3 buffered messages
+[I 13:23:22.122 NotebookApp] Saving file at /Documents/dev/python/notebooks/opencv_00.ipynb
+[I 13:24:03.167 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:24:08.358 NotebookApp] Kernel restarted: 3aa27dbe-875c-4974-a67d-713b262c8b5b
+[I 13:24:10.117 NotebookApp] Kernel restarted: 3aa27dbe-875c-4974-a67d-713b262c8b5b
+[I 13:24:10.173 NotebookApp] Restoring connection for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:24:10.173 NotebookApp] Replaying 6 buffered messages
+[W 13:24:10.230 NotebookApp] Replacing stale connection: 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:24:10.245 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:24:10.248 NotebookApp] Restoring connection for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:24:11.271 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:24:11.297 NotebookApp] Restoring connection for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:24:12.488 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:24:17.609 NotebookApp] Kernel restarted: 3aa27dbe-875c-4974-a67d-713b262c8b5b
+[I 13:24:17.697 NotebookApp] Restoring connection for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:24:55.124 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:24:55.765 NotebookApp] Kernel restarted: 3aa27dbe-875c-4974-a67d-713b262c8b5b
+[I 13:24:55.877 NotebookApp] Restoring connection for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:24:55.877 NotebookApp] Replaying 3 buffered messages
+[I 13:25:22.155 NotebookApp] Saving file at /Documents/dev/python/notebooks/opencv_00.ipynb
+[I 13:25:22.354 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:25:27.429 NotebookApp] Kernel restarted: 3aa27dbe-875c-4974-a67d-713b262c8b5b
+[I 13:25:27.620 NotebookApp] Restoring connection for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:26:01.308 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:26:06.418 NotebookApp] Kernel restarted: 3aa27dbe-875c-4974-a67d-713b262c8b5b
+[I 13:26:06.479 NotebookApp] Restoring connection for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 13:26:30.311 NotebookApp] Kernel interrupted: 3aa27dbe-875c-4974-a67d-713b262c8b5b
+[I 13:27:05.371 NotebookApp] Kernel interrupted: 3aa27dbe-875c-4974-a67d-713b262c8b5b
+[I 13:27:22.124 NotebookApp] Saving file at /Documents/dev/python/notebooks/opencv_00.ipynb
+[I 13:31:24.443 NotebookApp] Saving file at /Documents/dev/python/notebooks/opencv_00.ipynb
+[I 15:11:50.861 NotebookApp] Saving file at /Documents/dev/python/notebooks/opencv_00.ipynb
+[I 15:12:03.268 NotebookApp] Saving file at /Documents/dev/python/notebooks/opencv_00.ipynb
+[I 15:51:59.323 NotebookApp] Starting buffering for 3aa27dbe-875c-4974-a67d-713b262c8b5b:26117c46e23b4d86a6f0cfa7eff21d1c
+[I 15:52:14.012 NotebookApp] Kernel shutdown: 3aa27dbe-875c-4974-a67d-713b262c8b5b
+[C 09:45:32.007 NotebookApp] received signal 15, stopping
+[I 09:45:40.474 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 09:45:52.645 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 09:45:55.862 NotebookApp] Shutting down 2 kernels
+[I 09:46:06.107 NotebookApp] Kernel shutdown: 9ebc38dc-abf5-41df-9ddc-d1e32f1520a7
+[I 09:46:10.516 NotebookApp] Kernel shutdown: 972d62b4-eed2-4a4d-aa17-db1398e3160c
+[I 09:46:10.856 NotebookApp] Shutting down 0 terminals
+[I 09:46:11.590 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+[I 09:46:11.983 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 23:25:15.728 NotebookApp] Serving notebooks from local directory: /home/nuvhandra
+[I 23:25:15.756 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 23:25:15.757 NotebookApp] http://localhost:8888/?token=bdc26f9904e7ba27ce69f5309e2ef65bd08262aa8cfb6f9c
+[I 23:25:15.757 NotebookApp]  or http://127.0.0.1:8888/?token=bdc26f9904e7ba27ce69f5309e2ef65bd08262aa8cfb6f9c
+[I 23:25:15.757 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:25:15.818 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nuvhandra/.local/share/jupyter/runtime/nbserver-20084-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=bdc26f9904e7ba27ce69f5309e2ef65bd08262aa8cfb6f9c
+     or http://127.0.0.1:8888/?token=bdc26f9904e7ba27ce69f5309e2ef65bd08262aa8cfb6f9c
+[W 23:26:25.659 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 23:26:26.147 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201207232513 (127.0.0.1) 97.64ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[I 23:26:37.975 NotebookApp] Kernel started: 7043a50f-27f7-469b-9374-86c4cc625395, name: python3
+[W 09:26:58.113 NotebookApp] WebSocket ping timeout after 30270000 ms.
+[I 09:27:08.692 NotebookApp] Starting buffering for 7043a50f-27f7-469b-9374-86c4cc625395:a29095533b1941fe9cacd453fb9ab67d
+[I 09:30:02.310 NotebookApp] Restoring connection for 7043a50f-27f7-469b-9374-86c4cc625395:a29095533b1941fe9cacd453fb9ab67d
+[W 10:37:39.219 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201207232513 (::1) 44.31ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[I 10:37:40.099 NotebookApp] Kernel started: 29f1bef6-2f17-4a09-9e35-e3f200d508f5, name: python3
+[I 10:37:59.051 NotebookApp] Kernel interrupted: 29f1bef6-2f17-4a09-9e35-e3f200d508f5
+[I 10:38:03.369 NotebookApp] Kernel interrupted: 29f1bef6-2f17-4a09-9e35-e3f200d508f5
+[I 10:39:40.075 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 10:40:38.257 NotebookApp] Kernel interrupted: 29f1bef6-2f17-4a09-9e35-e3f200d508f5
+[I 10:41:40.274 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 10:43:40.030 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[W 08:32:43.598 NotebookApp] WebSocket ping timeout after 43259998 ms.
+[W 08:33:07.056 NotebookApp] WebSocket ping timeout after 43280918 ms.
+[I 08:33:19.439 NotebookApp] Starting buffering for 7043a50f-27f7-469b-9374-86c4cc625395:a29095533b1941fe9cacd453fb9ab67d
+[I 08:33:37.903 NotebookApp] Starting buffering for 29f1bef6-2f17-4a09-9e35-e3f200d508f5:c9222ef87a3545998effb1514e0f2854
+[I 08:36:15.011 NotebookApp] Restoring connection for 7043a50f-27f7-469b-9374-86c4cc625395:a29095533b1941fe9cacd453fb9ab67d
+[I 08:36:15.171 NotebookApp] Restoring connection for 29f1bef6-2f17-4a09-9e35-e3f200d508f5:c9222ef87a3545998effb1514e0f2854
+[I 08:36:15.171 NotebookApp] Starting buffering for 7043a50f-27f7-469b-9374-86c4cc625395:a29095533b1941fe9cacd453fb9ab67d
+[I 08:37:29.571 NotebookApp] Restoring connection for 7043a50f-27f7-469b-9374-86c4cc625395:a29095533b1941fe9cacd453fb9ab67d
+[I 08:38:52.718 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 17:15:30.748 NotebookApp] Starting buffering for 7043a50f-27f7-469b-9374-86c4cc625395:a29095533b1941fe9cacd453fb9ab67d
+[I 17:15:44.731 NotebookApp] Starting buffering for 29f1bef6-2f17-4a09-9e35-e3f200d508f5:c9222ef87a3545998effb1514e0f2854
+[C 00:17:12.275 NotebookApp] received signal 15, stopping
+[I 00:17:23.533 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 00:17:37.217 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 00:17:40.265 NotebookApp] Shutting down 2 kernels
+[I 00:17:48.029 NotebookApp] Kernel shutdown: 7043a50f-27f7-469b-9374-86c4cc625395
+[I 00:17:48.056 NotebookApp] Kernel shutdown: 29f1bef6-2f17-4a09-9e35-e3f200d508f5
+[I 00:17:48.527 NotebookApp] Shutting down 0 terminals
+[I 00:17:49.256 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+[I 00:17:49.764 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 18:46:22.418 NotebookApp] Serving notebooks from local directory: /home/nuvhandra
+[I 18:46:22.426 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 18:46:22.426 NotebookApp] http://localhost:8888/?token=568c13fc187dc00a7aeaa0496cf20e35f501c49b15507aa7
+[I 18:46:22.426 NotebookApp]  or http://127.0.0.1:8888/?token=568c13fc187dc00a7aeaa0496cf20e35f501c49b15507aa7
+[I 18:46:22.426 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:46:22.499 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nuvhandra/.local/share/jupyter/runtime/nbserver-24756-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=568c13fc187dc00a7aeaa0496cf20e35f501c49b15507aa7
+     or http://127.0.0.1:8888/?token=568c13fc187dc00a7aeaa0496cf20e35f501c49b15507aa7
+[W 18:56:04.543 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201221184620 (127.0.0.1) 51.02ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[I 18:56:05.405 NotebookApp] Kernel started: 716138c4-7ff5-48ff-87be-670f64e53362, name: python3
+[I 18:58:05.200 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 18:58:08.743 NotebookApp] Kernel interrupted: 716138c4-7ff5-48ff-87be-670f64e53362
+[I 19:00:05.211 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:02:05.203 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:04:05.204 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:06:05.221 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:06:53.159 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:08:05.200 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:10:05.202 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:10:19.610 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:12:05.207 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:16:05.201 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:18:05.199 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:22:05.199 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:24:05.214 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:26:05.231 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:28:05.208 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:32:06.126 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:34:06.091 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:38:06.099 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:40:06.102 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:42:06.101 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:44:06.106 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:46:06.101 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:48:06.116 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:50:06.160 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:52:06.145 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:54:06.148 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 19:54:17.588 NotebookApp] Kernel interrupted: 716138c4-7ff5-48ff-87be-670f64e53362
+[I 19:56:06.149 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 20:00:06.146 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 20:00:49.506 NotebookApp] Kernel interrupted: 716138c4-7ff5-48ff-87be-670f64e53362
+[I 20:02:06.146 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 20:04:06.142 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 20:05:35.167 NotebookApp] Kernel interrupted: 716138c4-7ff5-48ff-87be-670f64e53362
+[I 20:06:06.157 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 20:14:06.156 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 20:28:37.566 NotebookApp] Kernel interrupted: 716138c4-7ff5-48ff-87be-670f64e53362
+[I 20:30:04.880 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 20:30:43.374 NotebookApp] Kernel interrupted: 716138c4-7ff5-48ff-87be-670f64e53362
+[I 20:31:44.826 NotebookApp] Kernel interrupted: 716138c4-7ff5-48ff-87be-670f64e53362
+[I 20:32:06.210 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 20:34:06.165 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 21:01:14.479 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/inmuebles24scrapper.py
+[I 00:53:28.426 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 00:55:28.221 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 00:57:28.214 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 00:58:36.674 NotebookApp] Kernel interrupted: 716138c4-7ff5-48ff-87be-670f64e53362
+[I 00:59:28.225 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 01:01:28.219 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 01:03:28.212 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 01:05:28.222 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 01:06:27.963 NotebookApp] Kernel interrupted: 716138c4-7ff5-48ff-87be-670f64e53362
+[I 01:07:28.212 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/Inmuebles24 webscraping.ipynb
+[I 02:29:23.904 NotebookApp] Starting buffering for 716138c4-7ff5-48ff-87be-670f64e53362:3c47a049c46a40b0a1bcd4052fb4b938
+[W 02:44:28.747 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201221184620 (::1) 506.31ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/Inmuebles24%20webscraping.ipynb
+[I 09:40:13.499 NotebookApp] Starting buffering for 716138c4-7ff5-48ff-87be-670f64e53362:ed3f6e09dd4d41b38e7944d14194c988
+[I 17:07:22.239 NotebookApp] Serving notebooks from local directory: /home/nuvhandra
+[I 17:07:22.259 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 17:07:22.259 NotebookApp] http://localhost:8888/?token=4329f8ee9a452bc5e54f3d2d43cb7cd556431f0a06d2c1a5
+[I 17:07:22.259 NotebookApp]  or http://127.0.0.1:8888/?token=4329f8ee9a452bc5e54f3d2d43cb7cd556431f0a06d2c1a5
+[I 17:07:22.260 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:07:22.350 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nuvhandra/.local/share/jupyter/runtime/nbserver-15005-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=4329f8ee9a452bc5e54f3d2d43cb7cd556431f0a06d2c1a5
+     or http://127.0.0.1:8888/?token=4329f8ee9a452bc5e54f3d2d43cb7cd556431f0a06d2c1a5
+[I 17:07:42.676 NotebookApp] Creating new notebook in /Documents/hamoc/python-notebooks/rentscoreData
+[W 17:07:46.042 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201229170720 (127.0.0.1) 24.82ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/rentscoreData/Untitled.ipynb?kernel_name=python3
+[I 17:07:46.282 NotebookApp] Kernel started: 272bcd0a-38eb-4790-9588-3f172a7c8457, name: python3
+[W 17:08:51.871 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 17:08:52.218 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201229170720 (127.0.0.1) 3.50ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[I 17:09:02.163 NotebookApp] Kernel started: b7f58cc9-32ce-44f2-80da-26c776cdf5eb, name: python3
+[I 17:09:46.136 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/rentscoreData/rentscore process data.ipynb
+[I 17:11:46.114 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/rentscoreData/rentscore process data.ipynb
+[I 17:13:46.112 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/rentscoreData/rentscore process data.ipynb
+[I 17:17:46.127 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/rentscoreData/rentscore process data.ipynb
+[I 17:19:46.136 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/rentscoreData/rentscore process data.ipynb
+[I 17:21:46.141 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/rentscoreData/rentscore process data.ipynb
+[I 17:23:05.269 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/rentscoreData/rentscore process data.ipynb
+[I 17:23:46.151 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/rentscoreData/rentscore process data.ipynb
+[I 17:25:46.148 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/rentscoreData/rentscore process data.ipynb
+[I 17:27:46.147 NotebookApp] Saving file at /Documents/hamoc/python-notebooks/rentscoreData/rentscore process data.ipynb
+[W 09:30:35.347 NotebookApp] WebSocket ping timeout after 38099998 ms.
+[I 09:30:44.514 NotebookApp] Starting buffering for b7f58cc9-32ce-44f2-80da-26c776cdf5eb:e23b627b9a5246148be81b69037f6f6c
+[W 09:30:52.320 NotebookApp] WebSocket ping timeout after 38104071 ms.
+[I 09:30:57.322 NotebookApp] Starting buffering for 272bcd0a-38eb-4790-9588-3f172a7c8457:6919d9eb5ab24d5089ce9d04e427463b
+[I 09:40:16.106 NotebookApp] Restoring connection for b7f58cc9-32ce-44f2-80da-26c776cdf5eb:e23b627b9a5246148be81b69037f6f6c
+[I 09:40:27.720 NotebookApp] Starting buffering for b7f58cc9-32ce-44f2-80da-26c776cdf5eb:e23b627b9a5246148be81b69037f6f6c
+[I 09:40:27.739 NotebookApp] Restoring connection for 272bcd0a-38eb-4790-9588-3f172a7c8457:6919d9eb5ab24d5089ce9d04e427463b
+[I 09:40:29.249 NotebookApp] Starting buffering for 272bcd0a-38eb-4790-9588-3f172a7c8457:6919d9eb5ab24d5089ce9d04e427463b
+[I 09:40:31.999 NotebookApp] Restoring connection for 272bcd0a-38eb-4790-9588-3f172a7c8457:6919d9eb5ab24d5089ce9d04e427463b
+[I 09:40:39.572 NotebookApp] Restoring connection for b7f58cc9-32ce-44f2-80da-26c776cdf5eb:e23b627b9a5246148be81b69037f6f6c
+[I 09:46:35.417 NotebookApp] Starting buffering for b7f58cc9-32ce-44f2-80da-26c776cdf5eb:e23b627b9a5246148be81b69037f6f6c
+[I 09:46:35.448 NotebookApp] Starting buffering for 272bcd0a-38eb-4790-9588-3f172a7c8457:6919d9eb5ab24d5089ce9d04e427463b
+[W 10:51:48.875 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201229170720 (::1) 42.14ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/rentscoreData/rentscore%20process%20data.ipynb
+[W 10:54:06.086 NotebookApp] Notebook Documents/hamoc/python-notebooks/STP.ipynb is not trusted
+[W 10:54:06.700 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201229170720 (::1) 179.27ms referer=http://localhost:8888/notebooks/Documents/hamoc/python-notebooks/STP.ipynb
+[W 10:55:10.275 NotebookApp] Replacing stale connection: b7f58cc9-32ce-44f2-80da-26c776cdf5eb:2e45deabcb7d40e58e0900f9130f9f39
+[I 10:55:10.495 NotebookApp] Starting buffering for b7f58cc9-32ce-44f2-80da-26c776cdf5eb:2e45deabcb7d40e58e0900f9130f9f39
+[I 10:55:10.496 NotebookApp] Restoring connection for b7f58cc9-32ce-44f2-80da-26c776cdf5eb:2e45deabcb7d40e58e0900f9130f9f39
+[I 22:09:00.301 NotebookApp] Starting buffering for b7f58cc9-32ce-44f2-80da-26c776cdf5eb:2e45deabcb7d40e58e0900f9130f9f39
+[I 22:09:00.626 NotebookApp] Starting buffering for 272bcd0a-38eb-4790-9588-3f172a7c8457:1d32c87f11524cd8bbce743624cc3638
+[C 09:31:13.250 NotebookApp] received signal 15, stopping
+[I 09:31:21.428 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 09:31:30.670 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 09:31:33.641 NotebookApp] Shutting down 2 kernels
+[I 09:31:41.034 NotebookApp] Kernel shutdown: 272bcd0a-38eb-4790-9588-3f172a7c8457
+[I 09:31:46.090 NotebookApp] Kernel shutdown: b7f58cc9-32ce-44f2-80da-26c776cdf5eb
+[I 09:31:46.356 NotebookApp] Shutting down 0 terminals
+[I 09:31:46.800 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+[I 09:31:47.097 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
