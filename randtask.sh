@@ -1,3 +1,3 @@
 #!/bin/bash
 #select random task from list (file)
-notify-send "$(shuf -n 1 ~/rtask)"
+notify-send -i /home/nuvhandra/Pictures/xek.png "$(shuf -n 1 ~/rtask)"
