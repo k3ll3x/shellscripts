@@ -1,2 +1,2 @@
 #!/bin/bash
-git rm -r --cached .
+git rm -r --cached . ${@:2}
