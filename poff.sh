@@ -1,4 +1,6 @@
 #!/bin/bash
+export DISPLAY=:0
+
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 NC='\033[0m' # No Color
@@ -39,8 +41,13 @@ then
 		read freq
 		python3 /home/nuvhandra/Documents/dev/python/scripts/pomodoro.py $work $rest $freq
 		sleep 3
+	elif [[ "$ch" == "x" ]]
+	then
+		su - .x -c "export DISPLAY=:0; nohup xdg-open . </dev/null &>/dev/null &"
+		op=90
+		countdown
 	fi
 else
-	export DISPLAY=:0; notify-send "To much screen, aye?"; sleep 3&
+	notify-send "To much screen, aye?"; sleep 3&
 	countdown
 fi
