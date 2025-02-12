@@ -1,3 +1,3 @@
 #!/bin/bash
-#lsof -i
+lsof -i
 netstat -a

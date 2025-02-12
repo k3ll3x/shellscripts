@@ -4,4 +4,4 @@ cat /proc/cpuinfo
 echo "--------------------------------------"
 cat /proc/meminfo
 echo "--------------------------------------"
-free
+free -h

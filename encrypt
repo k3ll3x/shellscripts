@@ -1,5 +1,0 @@
-gpg -c filename.ext
-
-decrypt:
-
-gpg filename.ext.gpg

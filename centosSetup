@@ -1,3 +1,0 @@
-#!/bin/bash
-#centos setup
-yum install epel-release
