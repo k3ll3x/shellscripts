@@ -43,7 +43,8 @@ then
 		sleep 3
 	elif [[ "$ch" == "x" ]]
 	then
-		su - .x -c "export DISPLAY=:0; nohup xdg-open . </dev/null &>/dev/null &"
+		xhost +
+		su - .x -c 'export DISPLAY=:0; nohup xdg-open . </dev/null &>/dev/null &'
 		op=90
 		countdown
 	fi
