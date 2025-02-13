@@ -1,0 +1,10 @@
+#pacman -Sy vulkan-radeon
+
+#/etc/mkinitcpio.conf
+MODULES=()
+# mkinitcpio -P
+
+# /etc/default/grub
+#GRUB_CMDLINE_LINUX_DEFAULT="splash radeon.modeset=1"
+GRUB_CMDLINE_LINUX_DEFAULT="splash amdgpu.modeset=1 amdgpu.gpu_recovery=1 amdgpu.dc=0 amdgpu.vm_update_mode=3"
+# grub-mkconfig -o /boot/grub/grub.cfg
