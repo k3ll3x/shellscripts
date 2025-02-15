@@ -3,10 +3,10 @@
 #creates a img and then a loop device
 
 img=$1
-size=$2
+count=$2 #4096
 option=$3 #choose between using dd directly or not
 
-dd if=/dev/zero of=$img bs=1M count=$size status=progress oflag=sync
+dd if=/dev/zero of=$img bs=1M count=$count status=progress oflag=sync
 
 if [[ "$option" == "d" ]]
 then
